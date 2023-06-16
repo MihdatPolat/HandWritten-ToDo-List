@@ -61,15 +61,6 @@
         ul.appendChild(respectLi);
         localStorage.setItem("respectLi", JSON.stringify(respectLi));
     }
-    /*
-    if (firstItem) {
-        firstItem = false;
-        ul.appendChild(respectLi);
-    }
-    else{
-        ul.insertBefore(li,respectLi);
-
-    }*/
     }
     
     
